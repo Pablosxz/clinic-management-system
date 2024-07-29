@@ -1,6 +1,6 @@
-# Projeto de Gerenciamento de Clinica
+# Gerenciamento de Clinica
 
-Este é um projeto de exemplo para gerenciamento de agendamentos, incluindo autenticação de usuários, registro de novos usuários, recuperação de senha por email e documentação da API utilizando Swagger.
+Este é um projeto para gerenciamento de clínicas, incluindo funcionalidades para autenticação, agendamentos, gerenciamento de pacientes, médicos e recuperação de senhas. Desenvolvido com Spring Boot, utilizando PostgreSQL e documentação Swagger.
 
 ## Tecnologias Utilizadas
 
@@ -18,6 +18,8 @@ Este é um projeto de exemplo para gerenciamento de agendamentos, incluindo aute
 - Registro de novos usuários
 - Recuperação de senha por email
 - CRUD de agendamentos
+- CRUD de pacientes
+- CRUD de médicos
 - Documentação da API com Swagger
 
 ## Requisitos
