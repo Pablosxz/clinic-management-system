@@ -1,4 +1,4 @@
-# Projeto de Gerenciamento de Agendamentos
+# Projeto de Gerenciamento de Clinica
 
 Este é um projeto de exemplo para gerenciamento de agendamentos, incluindo autenticação de usuários, registro de novos usuários, recuperação de senha por email e documentação da API utilizando Swagger.
 
