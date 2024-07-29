@@ -32,8 +32,8 @@ Este é um projeto para gerenciamento de clínicas, incluindo funcionalidades pa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/pablosxz/.git
-   cd 
+   git clone https://github.com/Pablosxz/clinic-management-system.git
+   cd clinic-management-system
 
 2. Configure as variáveis de ambiente
    Linux/MacOS:
