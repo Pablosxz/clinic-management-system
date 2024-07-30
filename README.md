@@ -100,9 +100,9 @@ Este é um projeto para gerenciamento de clínicas, incluindo funcionalidades pa
 ## Documentação
 A documentação da API pode ser acessada em:
 
-    ```bash
+    
     http://localhost:8080/swagger-ui/index.html
-    ```
+    
 
 # Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
